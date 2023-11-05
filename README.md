@@ -1,9 +1,11 @@
 # TicTacToeMINIMAX
 NOTE: Please view the readme in raw formatting
+
 Python project
 - Uses MiniMax algorithm to make moves
 - To play, run the file and enter the row and column number of the position you want to play
 - The CPU will respond and then you can make your next move until a winner emerges
+
 
 Sample Game
 [0, 0, 0]
